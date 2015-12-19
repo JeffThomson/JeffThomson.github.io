@@ -1,5 +1,5 @@
 title:            electric wicky 
-description:      Describe your website here.
+description:      Tech, automation, code, and ramblings.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -16,14 +16,14 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         JeffThomson
   stackexchange:  
-  linkedin:       
+  linkedin:       jeffsthomson
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  #google_plus:    +yourid
 
 # Background image to be tiled on all pages
 background: 
@@ -46,7 +46,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:title/
 
 # Amount of post to show on home page
 paginate: 5
