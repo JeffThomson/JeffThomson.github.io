@@ -1,18 +1,18 @@
-title:            Site Title
+title:            electric wicky 
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:              //jeffthomson.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jeff Thomson 
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I work in ad tech, but I do other stuff too"
+  email:          jeff.s.thomson@gmail.com 
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Sydney 
 future:      true
 highlighter: pygments
 markdown:    kramdown
